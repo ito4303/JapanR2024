@@ -2,7 +2,6 @@
 title: "Kanazawa.R はじめました"
 subtitle: "Japan.R 2024"
 author: "伊東宏樹"
-format: revealjs
 editor: visual
 date: 2024-12-07
 format:
@@ -28,20 +27,55 @@ embed-resources: true
 
 ## Kanazawa.R
 
+![](images/KanazawaR.jpg){fig-alt="[Kanazawa.R]" fig-align="center"}
+
 -   第1回: 2024年6月29日
 
 -   第2回: 2024年11月23日
 
-## 金沢
+## なぜはじめたか
 
-National Geographic: [the 25 best places in the world to travel to in 2025](https://www.nationalgeographic.com/travel/slideshow/best-of-the-world-2025)に選ばれた都市のひとつ
+::: incremental
+-   地域R勉強会への参加
 
-## 地域R勉強会への参加
+    -   Tokyo.R
+    -   SappoRo.R
 
--   Tokyo.R
+-   早期退職して地元（石川県）に戻ってきた。
 
--   SappoRo.R
+-   北陸地方には地域R勉強会がない
 
-## 場所
+    -   → なければ自分でつくる
+:::
 
-## 次回未定ですが、是非！
+## 場所の確保
+
+-   高校時代の同級生が金沢市でIT会社の社長をしている
+
+    -   [株式会社アイ・ツー](https://www.i2-jp.com/)
+
+-   会社事務所（金沢駅近隣）とオンライン配信設備を貸してくださいました
+
+## Kanazawa.R のついでに金沢観光
+
+National Geographic: [The 25 best places in the world to travel to in 2025](https://www.nationalgeographic.com/travel/slideshow/best-of-the-world-2025)のひとつに選ばれました
+
+![](images/IMG_2775.jpeg){fig-alt="[雪吊り]" fig-align="center"}
+
+## 観光
+
+-   兼六園, 金沢城公園, 21世紀美術館, 茶屋街, ...
+
+![](images/IMG_7506.jpeg){fig-alt="[兼六園]" fig-align="center"}
+
+## 食
+
+-   カニ, 甘エビ, ブリ, ノドグロ, 金沢おでん, ...
+
+![](images/IMG_5746.jpeg){fig-alt="[海鮮]" fig-align="center" width="640"}
+
+## 次回未定ですが、是非！ {style="text-align: center; margin-top: 3em;"}
+
+::: {style="text-align:center; margin-top: 2em;"}
+connpassの[Kanazawa.R](https://kanazawar.connpass.com/)グループへ登録を
+:::

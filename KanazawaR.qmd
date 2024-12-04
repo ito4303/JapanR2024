@@ -1,12 +1,12 @@
 ---
-title: "Kanazawa.R はじめました"
+title: "Kanazawa.R<br />はじめました"
 subtitle: "Japan.R 2024"
 author: "伊東宏樹"
 editor: visual
 date: 2024-12-07
 format:
   revealjs:
-    theme: [default, custom.scss]
+    theme: [dark, custom.scss]
     slide-number: true
 embed-resources: true
 ---

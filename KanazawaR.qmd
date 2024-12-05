@@ -15,17 +15,15 @@ embed-resources: true
 
 -   氏名: 伊東宏樹
 
--   3月まで森林総合研究所勤務
+-   個人事業主（[伊東生態統計研究室](https://ito4303.sakura.ne.jp/)）
 
--   4月から個人事業主（[伊東生態統計研究室](https://ito4303.sakura.ne.jp/)）
-
--   データ解析、執筆・翻訳、研修講師などお引き受けいたします。
-
--   出版物: 『[BUGSで学ぶ階層モデリング入門](https://www.kyoritsu-pub.co.jp/book/b10003729.html)』『[生態学のための階層モデリング](https://www.kyoritsu-pub.co.jp/book/b10003301.html)』（以上共訳）など
+    -   データ解析、執筆・翻訳、研修講師などお引き受けいたします。
 
 -   [stan-dev/example-models/BPA](https://github.com/stan-dev/example-models/tree/master/BPA): Bayesian Population Analysis using WinBUGSのStan移植
 
-## Kanazawa.R
+-   出版物: 『[BUGSで学ぶ階層モデリング入門](https://www.kyoritsu-pub.co.jp/book/b10003729.html)』『[生態学のための階層モデリング](https://www.kyoritsu-pub.co.jp/book/b10003301.html)』（以上共訳）など
+
+## Kanazawa.R はじめました
 
 ![](images/KanazawaR.jpg){fig-alt="[Kanazawa.R]" fig-align="center"}
 
@@ -36,12 +34,12 @@ embed-resources: true
 ## なぜはじめたか
 
 ::: incremental
--   地域R勉強会への参加
+-   これまで地域R勉強会へ参加して いろいろ勉強になった
 
     -   Tokyo.R
     -   SappoRo.R
 
--   早期退職して地元（石川県）に戻ってきた。
+-   早期退職して地元（石川県）に戻ってきた
 
 -   北陸地方には地域R勉強会がない
 
@@ -50,15 +48,19 @@ embed-resources: true
 
 ## 場所の確保
 
--   高校時代の同級生が金沢市でIT会社の社長をしている
+::: incremental
+-   貸し会議室はそれなりのお値段
+
+-   高校の同級生が金沢市でIT企業の社長をしている
 
     -   [株式会社アイ・ツー](https://www.i2-jp.com/)
 
 -   会社事務所（金沢駅近隣）とオンライン配信設備を貸してくださいました
+:::
 
-## Kanazawa.R のついでに金沢観光
+## Kanazawa.R と 金沢観光はいかが
 
-National Geographic: [The 25 best places in the world to travel to in 2025](https://www.nationalgeographic.com/travel/slideshow/best-of-the-world-2025)のひとつに選ばれました
+National Geographic: [The 25 best places in the world to travel to in 2025](https://www.nationalgeographic.com/travel/slideshow/best-of-the-world-2025) のひとつに選ばれました
 
 ![](images/IMG_2775.jpeg){fig-alt="[雪吊り]" fig-align="center"}
 
@@ -77,5 +79,9 @@ National Geographic: [The 25 best places in the world to travel to in 2025](http
 ## 次回未定ですが、是非！ {style="text-align: center; margin-top: 3em;"}
 
 ::: {style="text-align:center; margin-top: 2em;"}
-connpassの[Kanazawa.R](https://kanazawar.connpass.com/)グループへ登録を
+connpass の [Kanazawa.R](https://kanazawar.connpass.com/) グループへ登録を
+:::
+
+::: {style="text-align: center; margin-top: 0.5em; font-size: 400%;"}
+🥳
 :::

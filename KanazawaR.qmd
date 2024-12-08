@@ -13,13 +13,11 @@ embed-resources: true
 
 ## 自己紹介
 
--   氏名: 伊東宏樹
+-   氏名: 伊東宏樹 (connpass ID: monotropastrum)
 
 -   個人事業主（[伊東生態統計研究室](https://ito4303.sakura.ne.jp/)）
 
     -   データ解析、執筆・翻訳、研修講師などお引き受けいたします。
-
--   [stan-dev/example-models/BPA](https://github.com/stan-dev/example-models/tree/master/BPA): Bayesian Population Analysis using WinBUGSのStan移植
 
 -   出版物: 『[BUGSで学ぶ階層モデリング入門](https://www.kyoritsu-pub.co.jp/book/b10003729.html)』『[生態学のための階層モデリング](https://www.kyoritsu-pub.co.jp/book/b10003301.html)』（以上共訳）など
 
@@ -58,9 +56,9 @@ embed-resources: true
 -   会社事務所（金沢駅近隣）とオンライン配信設備を貸してくださいました
 :::
 
-## Kanazawa.R と 金沢観光はいかが
+## Kanazawa.Rへどうぞ
 
-National Geographic: [The 25 best places in the world to travel to in 2025](https://www.nationalgeographic.com/travel/slideshow/best-of-the-world-2025) のひとつに選ばれました
+金沢は、National Geographicの [The 25 best places in the world to travel to in 2025](https://www.nationalgeographic.com/travel/slideshow/best-of-the-world-2025) のひとつに選ばれました
 
 ![](images/IMG_2775.jpeg){fig-alt="[雪吊り]" fig-align="center"}
 
